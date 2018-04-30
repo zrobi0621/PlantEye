@@ -1,0 +1,11 @@
+D:\Projects\C#\PlantEye\PlantEye\obj\Debug\PlantEye.csprojResolveAssemblyReference.cache
+D:\Projects\C#\PlantEye\PlantEye\obj\Debug\PlantEye.Properties.Resources.resources
+D:\Projects\C#\PlantEye\PlantEye\obj\Debug\PlantEye.csproj.GenerateResource.cache
+D:\Projects\C#\PlantEye\PlantEye\obj\Debug\PlantEye.csproj.CoreCompileInputs.cache
+D:\Projects\C#\PlantEye\PlantEye\bin\Debug\PlantEye.exe.config
+D:\Projects\C#\PlantEye\PlantEye\bin\Debug\PlantEye.exe
+D:\Projects\C#\PlantEye\PlantEye\bin\Debug\PlantEye.pdb
+D:\Projects\C#\PlantEye\PlantEye\obj\Debug\PlantEye.exe
+D:\Projects\C#\PlantEye\PlantEye\obj\Debug\PlantEye.pdb
+D:\Projects\C#\PlantEye\PlantEye\obj\Debug\PlantEye.AboutBox1.resources
+D:\Projects\C#\PlantEye\PlantEye\obj\Debug\PlantEye.Form1.resources
